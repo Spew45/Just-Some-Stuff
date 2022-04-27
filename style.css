@@ -3,4 +3,5 @@ div.one {
     right: 1075px;
     top: 60px;
     column-width: 600px;
+    line-height: 0.6px;
 }
